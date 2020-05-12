@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Учёба\Алена\САОД\Sort\Sort\bin\Debug\Sort.exe.config
+C:\Users\User\Desktop\Учёба\Алена\САОД\Sort\Sort\bin\Debug\Sort.exe
+C:\Users\User\Desktop\Учёба\Алена\САОД\Sort\Sort\bin\Debug\Sort.pdb
+C:\Users\User\Desktop\Учёба\Алена\САОД\Sort\Sort\obj\Debug\Sort.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Учёба\Алена\САОД\Sort\Sort\obj\Debug\Sort.Form1.resources
+C:\Users\User\Desktop\Учёба\Алена\САОД\Sort\Sort\obj\Debug\Sort.Properties.Resources.resources
+C:\Users\User\Desktop\Учёба\Алена\САОД\Sort\Sort\obj\Debug\Sort.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Учёба\Алена\САОД\Sort\Sort\obj\Debug\Sort.exe
+C:\Users\User\Desktop\Учёба\Алена\САОД\Sort\Sort\obj\Debug\Sort.pdb
